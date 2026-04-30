@@ -1,0 +1,9 @@
+{
+  "name": "mri_demo_assets",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "apexcharts": "^3.45.0",
+    "leaflet": "^1.9.4"
+  }
+}
